@@ -12,7 +12,8 @@ conn.join("#streamer") #Join a streamer who is currently streaming
 
 conn.sendMSG("My message") #Send a message in the chat
 
-conn.log() #Continuiously print out the twitch chat NOTE: This is a stopping function so BEWARE```
+conn.log() #Continuiously print out the twitch chat NOTE: This is a stopping function so BEWARE
+```
 
 
 HOW TO INSTALL:
