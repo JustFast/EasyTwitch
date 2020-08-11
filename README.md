@@ -22,4 +22,4 @@ Just run:
 ```
 pip install EasyTwitch
 ```
-After that your set to go!!
+After that your set to go!! You can also view the Pypi at https://pypi.org/project/EasyTwitch/
