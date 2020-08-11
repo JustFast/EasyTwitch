@@ -18,4 +18,8 @@ conn.log() #Continuiously print out the twitch chat NOTE: This is a stopping fun
 
 HOW TO INSTALL:
 
-Go to your prefered place where you would like to use this package and clone the master directory into it. After doing that you should have a file that is your prefered program directory and inside the file there will be a file called EasyTwitch. Now all you need to do is follow the example!!
+Just run:
+```
+pip install EasyTwitch
+```
+After that your set to go!!
