@@ -1,0 +1,6 @@
+README.md
+setup.py
+EasyTwitch.egg-info/PKG-INFO
+EasyTwitch.egg-info/SOURCES.txt
+EasyTwitch.egg-info/dependency_links.txt
+EasyTwitch.egg-info/top_level.txt
