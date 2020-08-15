@@ -1,7 +1,7 @@
 # EasyTwitch
 This is a repository to make using the twitch IRC easier to use. It can shorten your code by a lot and allows you to view messages and send messages! Expect updates in the future this is my first python package!
 
-#DOCUMENTATION:
+# DOCUMENTATION:
 
 |Item                                | Type   | Disc.                                                     |
 | -----------------------------------|:------:|----------------------------------------------------------:|
@@ -11,7 +11,7 @@ This is a repository to make using the twitch IRC easier to use. It can shorten 
 |connection.sendMSG(message)         |function|Send a message to the selected Twitch streamer             |
 
 
-##HOW TO INSTALL:
+# HOW TO INSTALL:
 
 Just run:
 ```
