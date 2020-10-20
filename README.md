@@ -5,10 +5,10 @@ This is a repository to make using the twitch IRC easier to use. It can shorten 
 
 |Item                            | Type   | Disc.                                                     |
 | -------------------------------|:------:|----------------------------------------------------------:|
-|connection(oauth, username)     |class   |Make a new connection to the Twitch server.                |
-|connection.join(#streamer)      |function|Join a Twitch streamer.                                    |
-|connection.log(file)            |function|Print out the Twitch chat (file logging is optional).      |
-|connection.sendMSG(message)     |function|Send a message to the selected Twitch streamer.            |
+|Connection(oauth, username)     |class   |Make a new connection to the Twitch server.                |
+|Connection.join(#streamer)      |function|Join a Twitch streamer.                                    |
+|Connection.log(file)            |function|Print out the Twitch chat (file logging is optional).      |
+|Connection.sendMSG(message)     |function|Send a message to the selected Twitch streamer.            |
 
 
 ## HOW TO INSTALL:
