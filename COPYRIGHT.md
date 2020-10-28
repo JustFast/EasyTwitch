@@ -1,1 +1,1 @@
-© Copyright BlueCannonBall 2020. All rights reserved.
+Bcb is dum Copywright JustFast
